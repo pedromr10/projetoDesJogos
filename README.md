@@ -2,3 +2,9 @@ Repositório direcionado à criação e desenvolvimento do projeto da matéria d
 
 # Integrantes:
 * Pedro Munhoz Rosin (RA: 24.122.013-6)
+
+# Sobre o jogo:
+
+# Sobre a história do jogo:
+
+# Público-alvo:
