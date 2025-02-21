@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="center">Projeto de Desenvolvimento de Jogos Digitais (FEI - 7° semestre)</p>
 
 ###
