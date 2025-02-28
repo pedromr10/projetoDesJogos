@@ -18,16 +18,6 @@
 
 <p align="left">Pedro Munhoz Rosin | 24.122.013-6</p>
 
-###
-
-<h2 align="left">Sobre o jogo:</h2>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
 
 ###
 
