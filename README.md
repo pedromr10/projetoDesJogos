@@ -1,14 +1,11 @@
 <h1 align="center">Death's Wish</h1>
 
 ###
-
-<p align="center">Projeto de Desenvolvimento de Jogos Digitais (FEI - 7° semestre)</p>
-
-###
 <p align="center">
-  ![logoWhite](https://github.com/user-attachments/assets/d51a8fb0-9677-4c24-912e-5e96adb78887)
+  <img src="https://github.com/pedromr10/projetoDesJogos/blob/main/coisasReadme/logoWhite.png" height="200">
 </p>
 
+<p align="center">Projeto de Desenvolvimento de Jogos Digitais (FEI - 7° semestre)</p>
 
 ###
 
