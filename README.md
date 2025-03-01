@@ -5,10 +5,10 @@
 <p align="center">Projeto de Desenvolvimento de Jogos Digitais (FEI - 7° semestre)</p>
 
 ###
+<p align="center">
+  ![logoWhite](https://github.com/user-attachments/assets/d51a8fb0-9677-4c24-912e-5e96adb78887)
+</p>
 
-<div align="center">
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg"  />
-</div>
 
 ###
 
