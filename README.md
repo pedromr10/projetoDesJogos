@@ -13,7 +13,8 @@
 
 ###
 
-<p align="left">+ Pedro Munhoz Rosin | 24.122.013-6</p>
+- Enzo Bozzani Martins | 24.122.020-1
+- Pedro Munhoz Rosin | 24.122.013-6
 
 
 ###
