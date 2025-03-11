@@ -16,6 +16,7 @@
 - Enzo Bozzani Martins | 24.122.020-1
 - Pedro Munhoz Rosin | 24.122.013-6
 - Rômulo Canavesso | 24.122.093-8
+- Giovanne D. Montalvão | 24.122.029-2
 
 
 ###
